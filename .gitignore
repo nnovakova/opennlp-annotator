@@ -5,3 +5,4 @@ gradle
 test_corpus.txt
 console.log
 gradlew.bat
+*.iml
